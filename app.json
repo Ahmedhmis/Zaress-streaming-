@@ -2,7 +2,7 @@
     "name": "Halbert Music",
     "description": "Music allow you to stream music trought the telegram voice chat feature.",
     "keywords": ["music", "voice chat", "telegram"],
-    "repository": "https://github.com/RidwanMusicProject/STREAMINGHLBERT",
+    "repository": "https://github.com/Ahmedhmis/Zaress-streaming-",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
